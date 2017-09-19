@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "8719C5B71F612A4B00205A4E"
-               BuildableName = "PickerAnmationDemo.app"
-               BlueprintName = "PickerAnmationDemo"
-               ReferencedContainer = "container:PickerAnmationDemo.xcodeproj">
+               BlueprintIdentifier = "875434B11F4FD49500014DFA"
+               BuildableName = "RefreshDemo.app"
+               BlueprintName = "RefreshDemo"
+               ReferencedContainer = "container:RefreshDemo.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,30 +32,30 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "8719C5D01F612A4B00205A4E"
-               BuildableName = "PickerAnmationDemoTests.xctest"
-               BlueprintName = "PickerAnmationDemoTests"
-               ReferencedContainer = "container:PickerAnmationDemo.xcodeproj">
+               BlueprintIdentifier = "875434CA1F4FD49600014DFA"
+               BuildableName = "RefreshDemoTests.xctest"
+               BlueprintName = "RefreshDemoTests"
+               ReferencedContainer = "container:RefreshDemo.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "8719C5DB1F612A4B00205A4E"
-               BuildableName = "PickerAnmationDemoUITests.xctest"
-               BlueprintName = "PickerAnmationDemoUITests"
-               ReferencedContainer = "container:PickerAnmationDemo.xcodeproj">
+               BlueprintIdentifier = "875434D51F4FD49600014DFA"
+               BuildableName = "RefreshDemoUITests.xctest"
+               BlueprintName = "RefreshDemoUITests"
+               ReferencedContainer = "container:RefreshDemo.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "8719C5B71F612A4B00205A4E"
-            BuildableName = "PickerAnmationDemo.app"
-            BlueprintName = "PickerAnmationDemo"
-            ReferencedContainer = "container:PickerAnmationDemo.xcodeproj">
+            BlueprintIdentifier = "875434B11F4FD49500014DFA"
+            BuildableName = "RefreshDemo.app"
+            BlueprintName = "RefreshDemo"
+            ReferencedContainer = "container:RefreshDemo.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -75,10 +75,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "8719C5B71F612A4B00205A4E"
-            BuildableName = "PickerAnmationDemo.app"
-            BlueprintName = "PickerAnmationDemo"
-            ReferencedContainer = "container:PickerAnmationDemo.xcodeproj">
+            BlueprintIdentifier = "875434B11F4FD49500014DFA"
+            BuildableName = "RefreshDemo.app"
+            BlueprintName = "RefreshDemo"
+            ReferencedContainer = "container:RefreshDemo.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -94,10 +94,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "8719C5B71F612A4B00205A4E"
-            BuildableName = "PickerAnmationDemo.app"
-            BlueprintName = "PickerAnmationDemo"
-            ReferencedContainer = "container:PickerAnmationDemo.xcodeproj">
+            BlueprintIdentifier = "875434B11F4FD49500014DFA"
+            BuildableName = "RefreshDemo.app"
+            BlueprintName = "RefreshDemo"
+            ReferencedContainer = "container:RefreshDemo.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

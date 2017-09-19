@@ -1,18 +1,18 @@
 //
-//  PickerAnmationDemoUITests.m
-//  PickerAnmationDemoUITests
+//  RefreshDemoUITests.m
+//  RefreshDemoUITests
 //
-//  Created by lvshasha on 2017/9/7.
-//  Copyright © 2017年 com.GlassStore. All rights reserved.
+//  Created by lvshasha on 2017/8/25.
+//  Copyright © 2017年 com.SmallCircle. All rights reserved.
 //
 
 #import <XCTest/XCTest.h>
 
-@interface PickerAnmationDemoUITests : XCTestCase
+@interface RefreshDemoUITests : XCTestCase
 
 @end
 
-@implementation PickerAnmationDemoUITests
+@implementation RefreshDemoUITests
 
 - (void)setUp {
     [super setUp];

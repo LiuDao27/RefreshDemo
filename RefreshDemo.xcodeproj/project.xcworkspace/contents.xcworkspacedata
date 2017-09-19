@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:PickerAnmationDemo.xcodeproj">
+      location = "self:RefreshDemo.xcodeproj">
    </FileRef>
 </Workspace>

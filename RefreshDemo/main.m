@@ -1,9 +1,9 @@
 //
 //  main.m
-//  PickerAnmationDemo
+//  RefreshDemo
 //
-//  Created by lvshasha on 2017/9/7.
-//  Copyright © 2017年 com.GlassStore. All rights reserved.
+//  Created by lvshasha on 2017/8/25.
+//  Copyright © 2017年 com.SmallCircle. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
